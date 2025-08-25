@@ -1,11 +1,11 @@
 # BLOCKCHAIN-APPLICATION
 
-##🎟 Blockchain-for-Event-Tickets
+#🎟 Blockchain-for-Event-Tickets
 
 A beginner-friendly blockchain implementation in Python for securely storing and verifying event tickets (movie shows, concerts, sports matches, etc.).
 This project demonstrates how blockchain can ensure tamper-proof tickets, prevent fake/scalped tickets, and enable secure ticket transfer.
 
-##🚀 Features
+#🚀 Features
 
 ✅ Genesis block creation – the first block starts the event’s ticket registry.
 ✅ Add tickets – issue tickets to users with seat number, event name, and ID.
@@ -15,7 +15,7 @@ This project demonstrates how blockchain can ensure tamper-proof tickets, preven
 ✅ Tamper-proof validation – ensures tickets haven’t been faked.
 ✅ Interactive CLI menu – issue, transfer, and verify tickets with user input.
 
-##⚙ How It Works
+#⚙ How It Works
 
 When an event is created, it starts with a Genesis block (ticket registry).
 
@@ -27,7 +27,7 @@ The blockchain links each record with SHA-256 hashes, ensuring no tampering.
 
 Both organizers and customers can verify tickets to avoid scams.
 
-##🔑 Concepts Used
+#🔑 Concepts Used
 
 🧱 Blockchain basics – tickets are stored as linked blocks.
 🔒 SHA-256 hashing – prevents fake ticket creation.
